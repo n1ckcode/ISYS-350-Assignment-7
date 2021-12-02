@@ -24,4 +24,4 @@ For example, if the user enters 555-GET-FOOD the program should display
 
 
 
-Script written by Nicholas Tang
+Python Script written by Nicholas Tang
