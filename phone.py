@@ -1,29 +1,14 @@
 
 
-#digit1 = input("Enter first digit:\n")
-#digit2 = input("Enter second digit:\n")
-#digit3 = input("Enter third digit:\n")
-#digit4 = input("Enter fourth digit:\n")
-#digit5 = input("Enter fifth digit:\n")
-#digit6 = input("Enter sixth digit:\n")
-#digit7 = input("Enter eight digit:\n")
-#digit9 = input("Enter nineth digit:\n")
-#digit10 = input("Enter tenth digit:\n")
 
-
-#def phonenumber(digit1,digit2,digit3,digit4,digit5,digit6,digit7,digit8,digit9,digit10):
-#    if digit1 == A or digit1 == B or digit1 == C:
-#        print(2)
-#    else:
-#       print(digit)
     
 
     
 
 
-numbers = input("Input number: ")
+numbers = input("Input number: ") 
 print(numbers)
-uppernumbers = numbers.upper()
+uppernumbers = numbers.upper().  
 def split(phonenumber):
     return [char for char in uppernumbers]
 phonenumber = split(uppernumbers)
